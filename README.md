@@ -1,5 +1,6 @@
 # CS305-Module5
 **Simple Restaurant Ordering System**
+
 This is a simplified version of a restaurant ordering system writen in python
 It provides a command-line interface for users to interact with the system
 It allows the users to view the menu, place orders, and review their order
