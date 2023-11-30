@@ -11,6 +11,11 @@ It allows the users to view the menu, place orders, and review their order
 * Calulates total cost
 * Creates order summary
 
+## Possible Stretch Goals
+* Implement multiple restaurants
+* Allow for order modifications
+* Incorporate Note additions to orders
+
 ## Getting Started
 ### Prerequisites
 * Python 3 installed
